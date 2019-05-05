@@ -104,8 +104,7 @@ $button-main-hover-color:                        #49cbcd;
   background-color: $button-main-background;
   color: $button-main-color;
   border: $button-main-border;
-  border-radius: 5px;
-  padding: $button-padding;
+  letter-spacing: 0.52px;
     &:hover,
   &:focus {
     border: $button-main-hover-border;
